@@ -4,10 +4,11 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Man10FightClubV2 extends JavaPlugin {
 
+    public static JavaPlugin mfc;
+
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        mfc = this;
     }
 
     @Override

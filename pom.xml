@@ -64,5 +64,12 @@
             <version>1.20.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>yusama125718</groupId>
+            <artifactId>Man10FightClubCore</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/Man10FightClubCore-1.0.jar</systemPath>
+        </dependency>
     </dependencies>
 </project>
