@@ -2,3 +2,15 @@ name: Man10FightClubV2
 version: '1.0'
 main: yusama125718.man10FightClubV2.Man10FightClubV2
 api-version: '1.20'
+
+commands:
+  mfc:
+    description: Man10FightClubV2
+
+permissions:
+  mfcv2.op:
+    default: op
+  mfcv2.p:
+    default: true
+  mfcv2.bet:
+    default: true
