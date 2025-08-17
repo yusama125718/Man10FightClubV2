@@ -2,6 +2,8 @@ prefix: "§c[Man10FightClub]"
 system: false
 mode: "free-rated"
 entry_cost: 10000
+prise_ratio: 0.1
+pro_join_standard: true
 
 mysql:
   host: localhost
